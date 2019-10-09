@@ -3,6 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@atlaskit/analytics-next": "^6.3.1",
+    "@atlaskit/button": "^13.3.3",
+    "@atlaskit/checkbox": "^10.1.2",
+    "@atlaskit/form": "^6.3.1",
+    "@atlaskit/page": "^11.0.9",
+    "@atlaskit/textfield": "^3.1.2",
     "@types/jest": "24.0.18",
     "@types/node": "12.7.12",
     "@types/react": "16.9.5",
@@ -10,6 +16,7 @@
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-scripts": "3.2.0",
+    "styled-components": "^4.4.0",
     "typescript": "3.6.3"
   },
   "scripts": {
